@@ -1,0 +1,3 @@
+# Download the dataset from Our World in Data
+# URL: https://covid.ourworldindata.org/data/owid-covid-data.csv
+# Save as 'owid-covid-data.csv' in your project directory
